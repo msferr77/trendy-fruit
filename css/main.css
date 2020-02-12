@@ -12,7 +12,7 @@ html {
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
 
-  font-family: Open Sans, sans-serif;
+  font-family: "Open Sans", sans-serif;
 }
 
 *, *::before, *::after {
@@ -28,7 +28,7 @@ body {
 }
 
 .watermelon h2 {
-  font-family: Rammetto One, sans-serif;
+  font-family: "Rammetto One", sans-serif;
 }
 
 .starfruit {
@@ -36,7 +36,7 @@ body {
 }
 
 .starfruit h2 {
-  font-family: Gravitas One, sans-serif;
+  font-family: "Gravitas One", sans-serif;
 }
 
 .persimmon {
